@@ -9,7 +9,7 @@ describe keluarga;
 
 
 /**
-input keluaran akan seperti di bawah
+input keluaran akan seperti di bawah:
 
 Field   Type    Null    Key     Default Extra
 no      int     NO      PRI     NULL
